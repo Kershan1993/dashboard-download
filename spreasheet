@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .download-button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <a href="https://docs.google.com/spreadsheets/d/1yOJZAkJ4sQENDxtHeKrDrvPevI0nEzYK9KWxYhQeCdI/export?format=xlsx" target="_blank" class="download-button">
+        Download Spreadsheet
+    </a>
+</body>
+</html>
